@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/beetroot-test/static/css/main.977ffea6.chunk.css",
+    "main.js": "/beetroot-test/static/js/main.16ad75b3.chunk.js",
+    "main.js.map": "/beetroot-test/static/js/main.16ad75b3.chunk.js.map",
+    "runtime-main.js": "/beetroot-test/static/js/runtime-main.e9eced10.js",
+    "runtime-main.js.map": "/beetroot-test/static/js/runtime-main.e9eced10.js.map",
+    "static/js/2.be4a3631.chunk.js": "/beetroot-test/static/js/2.be4a3631.chunk.js",
+    "static/js/2.be4a3631.chunk.js.map": "/beetroot-test/static/js/2.be4a3631.chunk.js.map",
+    "static/js/3.5a14edde.chunk.js": "/beetroot-test/static/js/3.5a14edde.chunk.js",
+    "static/js/3.5a14edde.chunk.js.map": "/beetroot-test/static/js/3.5a14edde.chunk.js.map",
+    "index.html": "/beetroot-test/index.html",
+    "static/css/main.977ffea6.chunk.css.map": "/beetroot-test/static/css/main.977ffea6.chunk.css.map",
+    "static/js/2.be4a3631.chunk.js.LICENSE.txt": "/beetroot-test/static/js/2.be4a3631.chunk.js.LICENSE.txt",
+    "static/media/arrow.7341b856.svg": "/beetroot-test/static/media/arrow.7341b856.svg",
+    "static/media/arrow_shot.9ad6df22.svg": "/beetroot-test/static/media/arrow_shot.9ad6df22.svg",
+    "static/media/help.b5b60e18.svg": "/beetroot-test/static/media/help.b5b60e18.svg",
+    "static/media/index.scss": "/beetroot-test/static/media/icons.b8c99b5f.ttf",
+    "static/media/editor.scss": "/beetroot-test/static/media/me-calendar-ico.bf0dc8a4.svg",
+    "static/media/me-emoji-happy.06deaf39.svg": "/beetroot-test/static/media/me-emoji-happy.06deaf39.svg",
+    "static/media/me-emoji-neutral.a5076e4f.svg": "/beetroot-test/static/media/me-emoji-neutral.a5076e4f.svg",
+    "static/media/me-emoji-sad.9e74c644.svg": "/beetroot-test/static/media/me-emoji-sad.9e74c644.svg",
+    "static/media/me-green-ball.58120cf5.svg": "/beetroot-test/static/media/me-green-ball.58120cf5.svg",
+    "static/media/me-minus.ef2bda19.svg": "/beetroot-test/static/media/me-minus.ef2bda19.svg",
+    "static/media/me-ok.48210cbc.svg": "/beetroot-test/static/media/me-ok.48210cbc.svg",
+    "static/media/me-plus.89ada8c2.svg": "/beetroot-test/static/media/me-plus.89ada8c2.svg",
+    "static/media/me-red-ball.3b9177e5.svg": "/beetroot-test/static/media/me-red-ball.3b9177e5.svg",
+    "static/media/me-shot-arrow-left.6e35df5d.svg": "/beetroot-test/static/media/me-shot-arrow-left.6e35df5d.svg",
+    "static/media/me-shot-arrow-right.56ce3577.svg": "/beetroot-test/static/media/me-shot-arrow-right.56ce3577.svg",
+    "static/media/me-steps.bd9538c6.svg": "/beetroot-test/static/media/me-steps.bd9538c6.svg",
+    "static/media/star-gold.01734bf5.svg": "/beetroot-test/static/media/star-gold.01734bf5.svg",
+    "static/media/star-green.d4309c7e.svg": "/beetroot-test/static/media/star-green.d4309c7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9eced10.js",
+    "static/js/2.be4a3631.chunk.js",
+    "static/css/main.977ffea6.chunk.css",
+    "static/js/main.16ad75b3.chunk.js"
+  ]
+}
